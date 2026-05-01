@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Amphibious Systems",
+        "uniques": [
+            "May attack when embarked",
+            "[+50]% Strength <when [Embarked]>"
+        ],
+        "unitTypes": ["Armored"]
+    }
+]

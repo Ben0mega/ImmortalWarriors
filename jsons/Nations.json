@@ -1,0 +1,89 @@
+[
+    {
+        "name": "The Eternal Pact",
+        "leaderName": "The Eternal",
+        "uniqueName": "Immortal Vanguard",
+        "uniques": [
+            "Cannot build [Military] units",
+            "Cannot build [Settler] units",
+            "Enables embarkation for land units",
+            "Enables [Armored] units to enter ocean tiles",
+            "[1] free [Ascended Guardian] units appear <upon discovering [Engineering] technology>"
+        ],
+        "outerColor": [20, 20, 60],
+        "innerColor": [100, 180, 255],
+        "startIntroPart1": "You lead the Eternal Pact, a civilization bound by an ancient covenant of immortality. Your warriors cannot be destroyed by mortal weapons — yet their oath forbids them from striking down the weak. They endure. They wait. They watch.",
+        "startIntroPart2": "When your scholars unlock the secrets of Engineering, the covenant will be fulfilled and your guardians will ascend. Until then, hold your ground and let no enemy break what cannot be broken.",
+        "declaringWar": "The Pact has been broken. Our guardians march.",
+        "attacked": "You strike at the unkillable. This will not end well for you.",
+        "defeated": "The Pact... is no more. Our guardians have finally fallen.",
+        "introduction": "We are the Eternal Pact. We have outlasted empires. We will outlast you.",
+        "neutralHello": "The Pact endures.",
+        "hateHello": "Test our patience no further.",
+        "tradeRequest": "The Pact trades only when it benefits the covenant.",
+        "cities": [
+            "Eternum", "The First Hold", "Covenant's Rest", "Undying Gate",
+            "Pact's End", "The Long Watch", "Timeless Keep", "Vigil Prime",
+            "Lastwall", "The Endless Hall", "Oathstone", "Ageless Bastion",
+            "The Still City", "Ever-Hold", "Permanence"
+        ]
+    },
+    {
+        "name": "The Undying Order",
+        "leaderName": "The Undying",
+        "uniqueName": "Immortal Vanguard",
+        "uniques": [
+            "Cannot build [Military] units",
+            "Cannot build [Settler] units",
+            "Enables embarkation for land units",
+            "Enables [Armored] units to enter ocean tiles",
+            "[1] free [Ascended Guardian] units appear <upon discovering [Engineering] technology>"
+        ],
+        "outerColor": [40, 10, 10],
+        "innerColor": [220, 80, 80],
+        "startIntroPart1": "You command the Undying Order, a brotherhood forged in deathless fire. Your soldiers have walked battlefields for centuries, yet no blade has ever claimed them. Their endurance is their gift — and their burden.",
+        "startIntroPart2": "The Order does not expand through settlement. It expands through conquest. When Engineering reveals the pinnacle of your craft, a new champion will rise and the world will bend.",
+        "declaringWar": "The Order passes judgment. Prepare.",
+        "attacked": "You cannot kill what does not die.",
+        "defeated": "The Order... falls. We did not think it possible.",
+        "introduction": "The Undying Order stands before you. Choose your next words carefully.",
+        "neutralHello": "The Order watches.",
+        "hateHello": "We remember every slight. Every one.",
+        "tradeRequest": "The Order will trade — but we do not forget debts.",
+        "cities": [
+            "Deathwatch", "The Iron Vigil", "Undying Reach", "Crimson Hold",
+            "Order's Gate", "The Endless March", "Dusk Bastion", "Eternal Flame",
+            "The Pyre", "Ashwall", "Emberhaven", "Char Keep",
+            "The Smoldering City", "Cinder Gate", "Unbroken"
+        ]
+    },
+    {
+        "name": "The Deathless Legion",
+        "leaderName": "The Deathless",
+        "uniqueName": "Immortal Vanguard",
+        "uniques": [
+            "Cannot build [Military] units",
+            "Cannot build [Settler] units",
+            "Enables embarkation for land units",
+            "Enables [Armored] units to enter ocean tiles",
+            "[1] free [Ascended Guardian] units appear <upon discovering [Engineering] technology>"
+        ],
+        "outerColor": [10, 40, 10],
+        "innerColor": [80, 200, 80],
+        "startIntroPart1": "You are the voice of the Deathless Legion, soldiers who have transcended mortality itself. They march without fear, for death holds no power over them. Their weakness is not in their bodies — it is in their restraint.",
+        "startIntroPart2": "The Legion expands by taking, not by building. Survive the early age on the strength of your immortal warriors, and when Engineering dawns, unleash the full fury of what your Legion truly is.",
+        "declaringWar": "The Legion advances. Stand aside or be crushed.",
+        "attacked": "Foolish. You cannot wound what will not die.",
+        "defeated": "The Legion is broken. We never imagined this day.",
+        "introduction": "The Deathless Legion does not negotiate from weakness. Remember that.",
+        "neutralHello": "The Legion notes your presence.",
+        "hateHello": "You have earned the Legion's attention. Not a good thing.",
+        "tradeRequest": "The Legion will trade. Do not mistake this for friendship.",
+        "cities": [
+            "Legion's Rest", "The Undying March", "Deathless Prime", "Immortal Gate",
+            "The Iron Column", "Bastion Eternal", "Never-Fall", "Deathless Watch",
+            "The Endless Front", "Unbroken Wall", "Legionnaire's Hold", "March's End",
+            "The Undying City", "Conquest's Rest", "Deathward"
+        ]
+    }
+]

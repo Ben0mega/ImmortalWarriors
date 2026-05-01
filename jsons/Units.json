@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Eternal Warrior",
+        "unitType": "Armored",
+        "movement": 5,
+        "strength": 150,
+        "cost": 40,
+        "uniqueTo": "The Eternal Pact",
+        "replaces": "Warrior",
+        "upgradesTo": "Ascended Guardian",
+        "promotions": ["Morale", "Amphibious Systems", "March"],
+        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>"],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Undying Warrior",
+        "unitType": "Armored",
+        "movement": 5,
+        "strength": 150,
+        "cost": 40,
+        "uniqueTo": "The Undying Order",
+        "replaces": "Warrior",
+        "upgradesTo": "Ascended Guardian",
+        "promotions": ["Morale", "Amphibious Systems", "March"],
+        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>"],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Deathless Warrior",
+        "unitType": "Armored",
+        "movement": 5,
+        "strength": 150,
+        "cost": 40,
+        "uniqueTo": "The Deathless Legion",
+        "replaces": "Warrior",
+        "upgradesTo": "Ascended Guardian",
+        "promotions": ["Morale", "Amphibious Systems", "March"],
+        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>"],
+        "attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Ascended Guardian",
+        "unitType": "Armored",
+        "movement": 5,
+        "strength": 150,
+        "cost": 425,
+        "requiredTech": "Engineering",
+        "promotions": ["Morale", "Amphibious Systems", "March"],
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "gdrAttack"
+    }
+]
