@@ -9,7 +9,7 @@
         "replaces": "Warrior",
         "upgradesTo": "Ascended Guardian",
         "promotions": ["Morale", "Amphibious Systems", "March"],
-        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>"],
+        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>", "May upgrade to [Warrior] through ruins-like effects"],
         "attackSound": "nonmetalhit"
     },
     {
@@ -22,7 +22,7 @@
         "replaces": "Warrior",
         "upgradesTo": "Ascended Guardian",
         "promotions": ["Morale", "Amphibious Systems", "March"],
-        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>"],
+        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>", "May upgrade to [Warrior] through ruins-like effects"],
         "attackSound": "nonmetalhit"
     },
     {
@@ -35,7 +35,7 @@
         "replaces": "Warrior",
         "upgradesTo": "Ascended Guardian",
         "promotions": ["Morale", "Amphibious Systems", "March"],
-        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>"],
+        "uniques": ["Never appears as a Barbarian unit", "[-108]% Strength <when attacking>", "May upgrade to [Warrior] through ruins-like effects"],
         "attackSound": "nonmetalhit"
     },
     {
